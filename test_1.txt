@@ -1,3 +1,7 @@
-test thu 1 2 3
-ao that day
-ơ đâu rồi ???
+
+các bước để đưa code lên git 
+Bước 1 : tạo 1 repository create a new repository hoặc git init 
+Bước 2 : git clone từ remote về local 
+Bước 3 : git add tất cả file bằng cú pháp git add . hoặc git add -all
+Bước 4 : git commit với cú pháp git commit -m " viết cái câu vào đây " 
+Bước 5 : git push từ local lên server 
