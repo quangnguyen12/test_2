@@ -5,3 +5,12 @@ Bước 2 : git clone từ remote về local
 Bước 3 : git add tất cả file bằng cú pháp git add . hoặc git add -all
 Bước 4 : git commit với cú pháp git commit -m " viết cái câu vào đây " 
 Bước 5 : git push từ local lên server 
+
+
+Cách lệnh cơ bản được áp dụng : 
+git add :add file từ local lên server
+git commit -m " " : viết dòng commit trên repository 
+git push đẩy code hoặc file lên server 
+git pull đẩy code từ server về local 
+git status kiểm tra trạng thái của một repository 
+git init tạo một repository 
